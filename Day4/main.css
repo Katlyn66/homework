@@ -1,0 +1,25 @@
+div {
+	border: 1px dotted #333;
+	padding: 20px;
+	margin: 10px 25px 10px 25px;
+
+	/* Equals the same as the above 4 points
+	margin: 10px 25px; */
+}
+header, main, div, footer {
+	border: 1px solid #333;
+}
+
+.float-left {
+	float:left;
+	width: 49%;
+	border-style: solid;
+	border-color: #ccc;
+	box-sizing: border-box;
+	
+}
+
+footer {
+	clear: both;
+
+}
