@@ -1,0 +1,23 @@
+blockquote {
+	font-style: italic;
+}
+
+em {
+	font-weight: 900;
+
+}
+
+blockquote em {
+	color: red;
+
+}
+
+#important {
+	background-color: #cccccc;
+
+}
+
+.awesome {
+	border: 7px dashed green;
+}
+

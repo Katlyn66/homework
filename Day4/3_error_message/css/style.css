@@ -1,0 +1,15 @@
+.message {
+	border: 2px solid #020c94;
+	padding: 4px;
+	margin: 3px;
+}
+
+.error {
+	background-color: lavender;
+	color: #08d175;
+}
+
+.success { 
+	background-color: #08d175;
+	color: lavender;
+}
